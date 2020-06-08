@@ -16,6 +16,22 @@
             
             <tag> springboot </tag>
             
+            <tag> tags </tag>
+            
+            <tag> docker </tag>
+            
+            <tag> springcloud </tag>
+            
+            <tag> spring </tag>
+            
+            <tag> mybatis </tag>
+            
+            <tag> mybatisplus </tag>
+            
+            <tag> fafka </tag>
+            
+            <tag> springmvc </tag>
+            
         </tags>
       
     </entry>
