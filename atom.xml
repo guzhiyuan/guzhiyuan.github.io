@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guzhiyuan.github.io/"/>
-  <updated>2020-06-08T14:50:10.540Z</updated>
+  <updated>2020-06-02T09:24:37.609Z</updated>
   <id>https://guzhiyuan.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://guzhiyuan.github.io/2020/060816107.html"/>
-    <id>https://guzhiyuan.github.io/2020/060816107.html</id>
-    <published>2020-06-08T13:17:47.173Z</published>
-    <updated>2020-06-08T14:50:10.540Z</updated>
+    <title>Swagger</title>
+    <link href="https://guzhiyuan.github.io/2020/060938097.html"/>
+    <id>https://guzhiyuan.github.io/2020/060938097.html</id>
+    <published>2020-06-09T02:52:58.274Z</published>
+    <updated>2020-06-02T09:24:37.609Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,66 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h2 id=&quot;Swagger&quot;&gt;&lt;a href=&quot;#Swagger&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
-      <category term="SpringBoot" scheme="https://guzhiyuan.github.io/categories/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jedis</title>
+    <link href="https://guzhiyuan.github.io/2020/060926793.html"/>
+    <id>https://guzhiyuan.github.io/2020/060926793.html</id>
+    <published>2020-06-09T02:52:58.242Z</published>
+    <updated>2020-06-04T01:14:20.567Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Jedis&quot;&gt;&lt;a href=&quot;#Jedis&quot; class=&quot;headerlink&quot; title=&quot;Jedis&quot;&gt;&lt;/a&gt;Jedis&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;官网：依赖 &lt;a
+        
+      
+    
+    </summary>
     
     
-      <category term="springboot" scheme="https://guzhiyuan.github.io/tags/springboot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springboot整合各种框架</title>
+    <link href="https://guzhiyuan.github.io/2020/060911146.html"/>
+    <id>https://guzhiyuan.github.io/2020/060911146.html</id>
+    <published>2020-06-09T01:25:00.000Z</published>
+    <updated>2020-06-09T03:00:11.739Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Springboot整合Freemarker&quot;&gt;&lt;a href=&quot;#Springboot整合Freemarker&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="springboot" scheme="https://guzhiyuan.github.io/categories/springboot/"/>
+    
+    
+      <category term="sringboot" scheme="https://guzhiyuan.github.io/tags/sringboot/"/>
+    
+      <category term="blog" scheme="https://guzhiyuan.github.io/tags/blog/"/>
     
   </entry>
   
